@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World! <% String var = "jeferson";%><%= var %></h1>
+        <h1>NUEVOS CAMBIOS EN LA PAGINA </h1>
     </body>
 </html>
